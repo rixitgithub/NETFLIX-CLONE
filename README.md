@@ -1,4 +1,4 @@
-# NETFLIX CLONE using MERN
+# NETFLIX CLONE 
 
 
 ## Available Scripts
